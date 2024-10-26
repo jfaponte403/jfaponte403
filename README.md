@@ -120,7 +120,7 @@ In addition to my technical skills, I enjoy maintaining a balanced lifestyle.
     </a>
 </p>
 
-## 📘 My Top Open Source Repositories
+## 📘 My Top Repositories
 <table>
   <thead align="center">
     <tr border: none;>
