@@ -13,8 +13,8 @@ I have a solid foundation in programming, with knowledge of **Python**, **FastAP
 In addition to my technical skills, I enjoy maintaining a balanced lifestyle.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/jhonattan-aponte-286168222/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/jhonattan_aponte/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jhonattan-aponte-286168222/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/jhonattan_aponte/" target="_blank"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 
