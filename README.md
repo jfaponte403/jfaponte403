@@ -6,11 +6,7 @@
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=50px></picture> About Me
 
-I am **Jhonattan Aponte**, a Telematic Engineering student at **Distrital University**. I have experience as a **Software Engineer** and am passionate about leveraging my skills and knowledge to create innovative solutions that drive progress and make a meaningful impact in the tech industry.
-
-I have a solid foundation in programming, with knowledge of **Python**, **FastAPI**, **React**, and **TypeScript**, and I am familiar with **Linux**. My interests lie in building scalable applications and continuously learning new technologies to stay ahead in this fast-paced field. I enjoy collaborating with teams on innovative projects.
-
-In addition to my technical skills, I enjoy maintaining a balanced lifestyle.
+**I am** Telematics Engineer with knowledge and experience in Back-End development, applying design patterns and agile methodologies. Skilled in unit testing, continuous deployment, and cloud management. I'm passionate about technology, continuous learning, and constantly improving my skills.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jhonattan-aponte-286168222/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
